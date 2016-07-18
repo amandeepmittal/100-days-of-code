@@ -10,4 +10,7 @@
 
 **Link(s) to work:** [nodescrapers](https://github.com/amandeepmittal/nodescrapers)
 
+**Currently Reading:** 
+- Letters from a Stoic by Seneca
+
 ---
