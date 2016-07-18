@@ -14,3 +14,15 @@
 - Letters from a Stoic by Seneca
 
 ---
+
+### Day 2: July 18, 2016 
+
+**Today's Progress**: 
+- Studied ES6, wrote teeny-tiny Hello World customary module in it.
+
+**Thoughts:** Project structre of an app is important. Thus, will be [organizing Files Around Features, Not Roles](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/) in my next project.
+
+**Link(s) to work:** 
+
+**Currently Reading:** 
+- Letters from a Stoic by Seneca
