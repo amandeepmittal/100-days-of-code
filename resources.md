@@ -1,20 +1,28 @@
 # Recommended resources
 
 ## Helpful Articles
-1.
+
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
 ## Other resources
-1.
+
 
 ## Tools
-1.
+
 
 ## Books (both coding and non-coding)
-1. "The War of Art" by Steven Pressfield
+
+### Coding
+- Professional Nodejs by Pedro Teixeira
+- Mastering JavaScript by Ved Antani
+
+### Non-Coding
+- Meditations by Marcus Aurelius
+- On Anger by Seneca
+- On Shortness of Life by Seneca
 
 
 ## Contents
