@@ -26,3 +26,17 @@
 
 **Currently Reading:** 
 - Letters from a Stoic by Seneca
+
+---
+
+### Day 3: July 19, 2016 
+
+**Today's Progress**: 
+- Studied more ES6
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+**Currently Reading:** 
+- Letters from a Stoic by Seneca
