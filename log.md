@@ -32,9 +32,9 @@
 ### Day 3: July 19, 2016 
 
 **Today's Progress**: 
-- Studied more ES6
+- Studied more ES6. Started working on Express_Auth, will be posting the repo tomoroow.
 
-**Thoughts:** 
+**Thoughts:** Some of the new syntax changes in ES6 are really time savers. 
 
 **Link(s) to work:** 
 
