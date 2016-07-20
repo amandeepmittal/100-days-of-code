@@ -40,3 +40,18 @@
 
 **Currently Reading:** 
 - Letters from a Stoic by Seneca
+
+---
+
+### Day 4: July 20, 2016 
+
+**Today's Progress**: 
+- Re-read some old notes on MEAN Stack given by Simon Holmes. 
+- Read ExpressJS guidlines on production for best practices on [security](http://expressjs.com/en/advanced/best-practice-security.html) and [performance](http://expressjs.com/en/advanced/best-practice-performance.html), [process managers](http://expressjs.com/en/advanced/pm.html) and studied some examples for [routes-listings](https://github.com/strongloop/express/blob/4.13.1/examples/route-separation/index.js?_ga=1.134726385.1220450953.1468397555#L32-47) and [MVC](https://github.com/strongloop/express/tree/master/examples/mvc?_ga=1.134726385.1220450953.1468397555) project structuring. 
+
+**Thoughts:** ExpressJS docs are a must read.
+
+**Link(s) to work:** 
+
+**Currently Reading:** 
+- Letters from a Stoic by Seneca
