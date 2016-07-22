@@ -55,3 +55,18 @@
 
 **Currently Reading:** 
 - Letters from a Stoic by Seneca
+
+---
+
+### Day 4: July 22, 2016 
+
+**Today's Progress**: 
+- Read Expressjs Docs and Express in Action by Evan Hahn. (Great introduction to Expressjs)
+
+**Thoughts:** Looking to work on the application. Yesterday, go stuck with `EADDRINUSE::Port number error` while working on the Express_Auth app's instance.
+
+**Link(s) to work:** 
+
+**Currently Reading:** 
+- Letters from a Stoic by Seneca
+
