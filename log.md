@@ -70,3 +70,18 @@
 **Currently Reading:** 
 - Letters from a Stoic by Seneca
 
+---
+
+### Day 6: July 23, 2016 
+
+**Today's Progress**: 
+- Working on Express_Auth: a simple user auth boilerplate in ExpressJS & MongoDB.
+
+**Thoughts:** MongoDB is fun. Setting up an app in expressjs might take some time for the first time, but its super simple.
+
+**Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
+
+**Currently Reading:** 
+
+---
+
