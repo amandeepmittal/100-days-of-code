@@ -75,13 +75,26 @@
 ### Day 6: July 23, 2016 
 
 **Today's Progress**: 
-- Working on Express_Auth: a simple user auth boilerplate in ExpressJS & MongoDB.
+- Working on Express_Auth: setup, config, login, register -- views, schema & model.
 
 **Thoughts:** MongoDB is fun. Setting up an app in expressjs might take some time for the first time, but its super simple.
 
 **Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
 
 **Currently Reading:** 
+- A Guide to the Good Life by William B. Irvine
 
 ---
+
+### Day 6: July 23, 2016 
+
+**Today's Progress**: 
+- Worked on Express_Auth: login, register -- routes with passport authentication, user profile, forgot + reset password by generating a "reset token".
+
+**Thoughts:** Do check your spells, sometimes they are the culprit. Eveything works if want them to. Debugging is important.
+
+**Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
+
+**Currently Reading:** 
+- A Guide to the Good Life by William B. Irvine
 
