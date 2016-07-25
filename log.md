@@ -86,7 +86,7 @@
 
 ---
 
-### Day 6: July 23, 2016 
+### Day 7: July 24, 2016 
 
 **Today's Progress**: 
 - Worked on Express_Auth: login, register -- routes with passport authentication, user profile, forgot + reset password by generating a "reset token".
@@ -98,3 +98,15 @@
 **Currently Reading:** 
 - A Guide to the Good Life by William B. Irvine
 
+---
+### Day 8: July 25, 2016 
+
+**Today's Progress**: 
+- Worked on Express_Auth: wrote tests (and yes, writing tests counts) using Mocha, Chai & Supertest.
+
+**Thoughts:** Don't write tests with over complexity.
+
+**Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
+
+**Currently Reading:** 
+- A Guide to the Good Life by William B. Irvine
