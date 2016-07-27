@@ -120,11 +120,12 @@
 
 **Thoughts:** 
 - Write code for yourself.
+- Deplyment on [Now](https://zeit.co/now) is easy and unique.
 - I am excited to work on more projects that consist of Nodejs and Expressjs. It's a good challenge to my current skills and I get to learn more. Expansion is essential.
 - You have to choose between Anger or Tranquility of mind. It's your choice.
 - Caffeine helps.
 
-**Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_boilerplate)
+**Link(s) to work:** [Expres_Boilerplate](https://github.com/amandeepmittal/express_boilerplate)
 
 **Currently Reading:** 
 - A Guide to the Good Life by William B. Irvine
