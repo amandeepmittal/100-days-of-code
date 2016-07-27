@@ -29,7 +29,7 @@
 
 ---
 
-### Day 3: July 19, 2016 
+### Day 3: July 19 
 
 **Today's Progress**: 
 - Studied more ES6. Started working on Express_Auth, will be posting the repo tomoroow.
@@ -123,7 +123,6 @@
 - I am excited to work on more projects that consist of Nodejs and Expressjs. It's a good challenge to my current skills and I get to learn more. Expansion is essential.
 - You have to choose between Anger or Tranquility of mind. It's your choice.
 - Caffeine helps.
-- 10 days, still coding!
 
 **Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_boilerplate)
 
