@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 ---
 
-### Day 1: July 17, 2016 
+### Day 1: July 17 
 
 **Today's Progress**: 
 - Simple Web Scraper using Nodejs, Request & Cheerio [Link](https://github.com/amandeepmittal/nodescrapers)
@@ -15,7 +15,7 @@
 
 ---
 
-### Day 2: July 18, 2016 
+### Day 2: July 18 
 
 **Today's Progress**: 
 - Studied ES6, wrote teeny-tiny Hello World customary module in it.
@@ -43,7 +43,7 @@
 
 ---
 
-### Day 4: July 20, 2016 
+### Day 4: July 20 
 
 **Today's Progress**: 
 - Re-read some old notes on MEAN Stack given by Simon Holmes. 
@@ -58,7 +58,7 @@
 
 ---
 
-### Day 5: July 22, 2016 
+### Day 5: July 22 
 
 **Today's Progress**: 
 - Read Expressjs Docs and Express in Action by Evan Hahn. (Great introduction to Expressjs)
@@ -72,7 +72,7 @@
 
 ---
 
-### Day 6: July 23, 2016 
+### Day 6: July 23 
 
 **Today's Progress**: 
 - Working on Express_Auth: setup, config, login, register -- views, schema & model.
@@ -86,7 +86,7 @@
 
 ---
 
-### Day 7: July 24, 2016 
+### Day 7: July 24 
 
 **Today's Progress**: 
 - Worked on Express_Auth: login, register -- routes with passport authentication, user profile, forgot + reset password by generating a "reset token".
@@ -99,7 +99,7 @@
 - A Guide to the Good Life by William B. Irvine
 
 ---
-### Day 8: July 25, 2016 
+### Day 8: July 25 
 
 **Today's Progress**: 
 - Worked on Express_Auth: wrote tests (and yes, writing tests counts) using Mocha, Chai & Supertest.
@@ -107,6 +107,25 @@
 **Thoughts:** Don't write tests with over complexity.
 
 **Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
+
+**Currently Reading:** 
+- A Guide to the Good Life by William B. Irvine
+
+---
+### Day 9: July 26 
+
+**Today's Progress**: 
+- Commit Express_Boilerplate a minimal boilerplate isn Expressjs and Jade.
+- Pro Express.js by Azat Mardan
+
+**Thoughts:** 
+- Write code for yourself.
+- I am excited to work on more projects that consist of Nodejs and Expressjs. It's a good challenge to my current skills and I get to learn more. Expansion is essential.
+- You have to choose between Anger or Tranquility of mind. It's your choice.
+- Caffeine helps.
+- 10 days, still coding!
+
+**Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_boilerplate)
 
 **Currently Reading:** 
 - A Guide to the Good Life by William B. Irvine
