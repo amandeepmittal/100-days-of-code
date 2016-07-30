@@ -129,3 +129,18 @@
 
 **Currently Reading:** 
 - A Guide to the Good Life by William B. Irvine
+
+---
+### Day 10: July 30
+
+**Today's Progress**: 
+- Worked on a simple and basic blogging app in Nodejs and MongoDB
+
+**Thoughts:** 
+- I am have started to think in Mongoose way when developing Schemas or models. Have to get more fluent with Mongoose.
+- Need to adapt more production practices.
+
+**Link(s) to work:**
+
+**Currently Reading:** 
+
