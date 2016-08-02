@@ -146,10 +146,10 @@
 - Intutuion Pumps & othe thinking tools by Daniel Dennet
 
 ---
-### Day 11: Aug 2
+### Day 11: Aug 1
 
 **Today's Progress**: 
-- Revamped Streams. Good introduction by Sustack: [Stream-Handbook](https://github.com/substack/stream-handbook)
+- Revamped Streams. Good introduction by Substack: [Stream-Handbook](https://github.com/substack/stream-handbook)
 - A good brief introduction to [Callback](https://github.com/maxogden/art-of-node) and [Callback hell] (http://callbackhell.com/)
 
 **Thoughts:** 
@@ -161,3 +161,17 @@ I am looking forward to working on an application that consists using Node's str
 - Intutuion Pumps & othe thinking tools by Daniel Dennet
 - Women in White by Wilki Collins
 
+---
+### Day 12: Aug 2
+
+**Today's Progress**: 
+- Learning & practice writing tests with framework Mocha and assertion libraries such as assert--node core module, and chai.
+
+**Thoughts:** 
+"The key is to write tests, even if they are terrible, horrible or awful, write them. You will get better as you go."
+
+**Link(s) to work:**
+
+**Currently Reading:** 
+- Women in White by Wilki Collins
+- Whose Body? by Dorothy Sayers
