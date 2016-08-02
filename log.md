@@ -143,4 +143,21 @@
 **Link(s) to work:**
 
 **Currently Reading:** 
+- Intutuion Pumps & othe thinking tools by Daniel Dennet
+
+---
+### Day 11: Aug 2
+
+**Today's Progress**: 
+- Revamped Streams. Good introduction by Sustack: [Stream-Handbook](https://github.com/substack/stream-handbook)
+- A good brief introduction to [Callback](https://github.com/maxogden/art-of-node) and [Callback hell] (http://callbackhell.com/)
+
+**Thoughts:** 
+I am looking forward to working on an application that consists using Node's stream module.
+
+**Link(s) to work:**
+
+**Currently Reading:** 
+- Intutuion Pumps & othe thinking tools by Daniel Dennet
+- Women in White by Wilki Collins
 
