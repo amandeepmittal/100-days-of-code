@@ -166,12 +166,16 @@ I am looking forward to working on an application that consists using Node's str
 
 **Today's Progress**: 
 - Learning & practice writing tests with framework Mocha and assertion libraries such as assert--node core module, and chai.
+- Tried my hands on coffeescript
+- Started playing around with Atom, adding snippets to avoid annoyance and boost productivity while working on projects.
 
 **Thoughts:** 
-"The key is to write tests, even if they are terrible, horrible or awful, write them. You will get better as you go."
+- "The key is to write tests, even if they are terrible, horrible or awful, write them. You will get better as you go."
+- CoffeScript is quite clean.
+- Make snippets in Atom is super easy. You just have to add 'source file name' that is available in the language you want to make snippets for. Search in `Packages > language-*`. Looking forward to make snippets for Expressjs as I find lack of Expressjs snippets for Atom.
 
 **Link(s) to work:**
 
 **Currently Reading:** 
 - Women in White by Wilki Collins
-- Whose Body? by Dorothy Sayers
+
