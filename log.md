@@ -185,12 +185,14 @@ I am looking forward to working on an application that consists using Node's str
 **Today's Progress**: 
 - Published first Atom Package: [jade](https://atom.io/packages/jade) which contain snippets for the daily use working with Jade template engine.
 - Working on second Atom Package which is a collection of snippets for Nodejs, JS with ES6 syntax support.
+- Done with Second Atom Package: [atom-nodejs-snippets](https://atom.io/packages/atom-nodejs-snippets). Shipped.
 
 **Thoughts:** 
 - currently my mind is numb, haven't slept.
 
 **Link(s) to work:**
 - jade [Github](https://github.com/amandeepmittal/jade) | [Atom](https://atom.io/packages/jade)
+- atom-nodejs-snippets [Github](https://github.com/amandeepmittal/atom-nodejs-snippets) | [Atom](https://atom.io/packages/atom-nodejs-snippets)
 
 **Currently Reading:** 
 - Women in White by Wilki Collins
