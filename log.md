@@ -179,3 +179,19 @@ I am looking forward to working on an application that consists using Node's str
 **Currently Reading:** 
 - Women in White by Wilki Collins
 
+---
+### Day 13: Aug 3
+
+**Today's Progress**: 
+- Published first Atom Package: [jade](https://atom.io/packages/jade) which contain snippets for the daily use working with Jade template engine.
+- Working on second Atom Package which is a collection of snippets for Nodejs, JS with ES6 syntax support.
+
+**Thoughts:** 
+- currently my mind is numb, haven't slept.
+
+**Link(s) to work:**
+- jade [Github](https://github.com/amandeepmittal/jade) | [Atom](https://atom.io/packages/jade)
+
+**Currently Reading:** 
+- Women in White by Wilki Collins
+
