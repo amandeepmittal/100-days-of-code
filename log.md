@@ -197,3 +197,19 @@ I am looking forward to working on an application that consists using Node's str
 **Currently Reading:** 
 - Women in White by Wilki Collins
 
+---
+### Day 14: Aug 4
+
+**Today's Progress**: 
+- Done with two [FCC](https://freecodecamp.com) challenges: [Random TrekQuote Machine](http://codepen.io/amanhimself/pen/GqYpRZ) & [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY)
+
+**Thoughts:** 
+- Working with JQuery and [Open Weather API](http://openweathermap.org/current) was a learning. It's quite logical how things work when you are trying to hit api(s) for data and you should follow the flow, only then things will work.
+
+**Link(s) to work:**
+- [Random TrekQuote Machine](http://codepen.io/amanhimself/pen/GqYpRZ)
+- [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY)
+
+**Currently Reading:** 
+- Women in White by Wilki Collins
+
