@@ -201,7 +201,8 @@ I am looking forward to working on an application that consists using Node's str
 ### Day 14: Aug 4
 
 **Today's Progress**: 
-- Done with two [FCC](https://freecodecamp.com) challenges: [Random TrekQuote Machine](http://codepen.io/amanhimself/pen/GqYpRZ) & [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY)
+- Done with two [FCC](https://freecodecamp.com) projects: [Random TrekQuote Machine](http://codepen.io/amanhimself/pen/GqYpRZ) & [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY).
+- Done with 3rd FCC Project: Wikipedia API Search with Random Article Button using Jquery, and AJAX call Wikipedia API. 
 
 **Thoughts:** 
 - Working with JQuery and [Open Weather API](http://openweathermap.org/current) was a learning. It's quite logical how things work when you are trying to hit api(s) for data and you should follow the flow, only then things will work.
@@ -209,6 +210,19 @@ I am looking forward to working on an application that consists using Node's str
 **Link(s) to work:**
 - [Random TrekQuote Machine](http://codepen.io/amanhimself/pen/GqYpRZ)
 - [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY)
+- [Wikipedia API Search/Random Article](https://codepen.io/amanhimself/full/dXgNyK/)
+
+**Currently Reading:** 
+- Women in White by Wilki Collins
+
+---
+### Day 15: Aug 5
+
+**Today's Progress**: 
+- Completed revamping my personal website. I think it looks good now. _"HTML divs need space just like you and me."_ Website looks good now. Added more projects to my portfolio. Devicons is a good resource to find techy icons.
+
+**Link(s) to work:**
+- [Personal Website](https://amandeepmittal.github.io)
 
 **Currently Reading:** 
 - Women in White by Wilki Collins
