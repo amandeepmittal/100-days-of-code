@@ -227,3 +227,14 @@ I am looking forward to working on an application that consists using Node's str
 **Currently Reading:** 
 - Women in White by Wilki Collins
 
+---
+### Day 15: Aug 5
+
+**Today's Progress**: 
+- Practiced testing with Mocha and Chai.
+
+**Link(s) to work:**
+
+
+**Currently Reading:** 
+- Women in White by Wilki Collins
