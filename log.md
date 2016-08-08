@@ -10,9 +10,6 @@
 
 **Link(s) to work:** [nodescrapers](https://github.com/amandeepmittal/nodescrapers)
 
-**Currently Reading:** 
-- Letters from a Stoic by Seneca
-
 ---
 
 ### Day 2: July 18 
@@ -24,9 +21,6 @@
 
 **Link(s) to work:** 
 
-**Currently Reading:** 
-- Letters from a Stoic by Seneca
-
 ---
 
 ### Day 3: July 19 
@@ -37,9 +31,6 @@
 **Thoughts:** Some of the new syntax changes in ES6 are really time savers. 
 
 **Link(s) to work:** 
-
-**Currently Reading:** 
-- Letters from a Stoic by Seneca
 
 ---
 
@@ -53,9 +44,6 @@
 
 **Link(s) to work:** 
 
-**Currently Reading:** 
-- Letters from a Stoic by Seneca
-
 ---
 
 ### Day 5: July 22 
@@ -67,9 +55,6 @@
 
 **Link(s) to work:** 
 
-**Currently Reading:** 
-- Letters from a Stoic by Seneca
-
 ---
 
 ### Day 6: July 23 
@@ -80,9 +65,6 @@
 **Thoughts:** MongoDB is fun. Setting up an app in expressjs might take some time for the first time, but its super simple.
 
 **Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
-
-**Currently Reading:** 
-- A Guide to the Good Life by William B. Irvine
 
 ---
 
@@ -108,9 +90,6 @@
 
 **Link(s) to work:** [Expres_Auth](https://github.com/amandeepmittal/express_auth)
 
-**Currently Reading:** 
-- A Guide to the Good Life by William B. Irvine
-
 ---
 ### Day 9: July 26 
 
@@ -127,9 +106,6 @@
 
 **Link(s) to work:** [Expres_Boilerplate](https://github.com/amandeepmittal/express_boilerplate)
 
-**Currently Reading:** 
-- A Guide to the Good Life by William B. Irvine
-
 ---
 ### Day 10: July 30
 
@@ -142,9 +118,6 @@
 
 **Link(s) to work:**
 
-**Currently Reading:** 
-- Intutuion Pumps & othe thinking tools by Daniel Dennet
-
 ---
 ### Day 11: Aug 1
 
@@ -156,10 +129,6 @@
 I am looking forward to working on an application that consists using Node's stream module.
 
 **Link(s) to work:**
-
-**Currently Reading:** 
-- Intutuion Pumps & othe thinking tools by Daniel Dennet
-- Women in White by Wilki Collins
 
 ---
 ### Day 12: Aug 2
@@ -176,9 +145,6 @@ I am looking forward to working on an application that consists using Node's str
 
 **Link(s) to work:**
 
-**Currently Reading:** 
-- Women in White by Wilki Collins
-
 ---
 ### Day 13: Aug 3
 
@@ -193,9 +159,6 @@ I am looking forward to working on an application that consists using Node's str
 **Link(s) to work:**
 - jade [Github](https://github.com/amandeepmittal/jade) | [Atom](https://atom.io/packages/jade)
 - atom-nodejs-snippets [Github](https://github.com/amandeepmittal/atom-nodejs-snippets) | [Atom](https://atom.io/packages/atom-nodejs-snippets)
-
-**Currently Reading:** 
-- Women in White by Wilki Collins
 
 ---
 ### Day 14: Aug 4
@@ -212,9 +175,6 @@ I am looking forward to working on an application that consists using Node's str
 - [Show Local Weather](http://codepen.io/amanhimself/pen/RRZaEY)
 - [Wikipedia API Search/Random Article](https://codepen.io/amanhimself/full/dXgNyK/)
 
-**Currently Reading:** 
-- Women in White by Wilki Collins
-
 ---
 ### Day 15: Aug 5
 
@@ -224,17 +184,20 @@ I am looking forward to working on an application that consists using Node's str
 **Link(s) to work:**
 - [Personal Website](https://amandeepmittal.github.io)
 
-**Currently Reading:** 
-- Women in White by Wilki Collins
-
 ---
-### Day 15: Aug 5
+### Day 16: Aug 6
 
 **Today's Progress**: 
 - Practiced testing with Mocha and Chai.
 
 **Link(s) to work:**
 
+---
+### Day 17: Aug 8
 
-**Currently Reading:** 
-- Women in White by Wilki Collins
+**Today's Progress**: 
+- Introduced myself to [REST](https://www.infoq.com/articles/rest-introduction#anch15426)
+
+**Link(s) to work:**
+
+
