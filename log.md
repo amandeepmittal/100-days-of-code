@@ -197,6 +197,7 @@ I am looking forward to working on an application that consists using Node's str
 
 **Today's Progress**: 
 - Introduced myself to [REST](https://www.infoq.com/articles/rest-introduction#anch15426)
+- Fernando Doglio's Pro REST API Developement with Node.js provides good information to start with REST APIs.
 
 **Link(s) to work:**
 
