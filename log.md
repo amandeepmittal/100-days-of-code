@@ -201,4 +201,8 @@ I am looking forward to working on an application that consists using Node's str
 
 **Link(s) to work:**
 
+---
+### Day 18: Aug 9
 
+**Today's Progress**: 
+- Fernando Doglio's Pro REST API Developement with Node.js is good start to get familiar to REST API in general. 
