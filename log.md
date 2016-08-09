@@ -205,4 +205,5 @@ I am looking forward to working on an application that consists using Node's str
 ### Day 18: Aug 9
 
 **Today's Progress**: 
+- Practical Node.js by Azat Mardan is has some good insight on Node.js web apps at production level.
 - Fernando Doglio's Pro REST API Developement with Node.js is good start to get familiar to REST API in general. 
