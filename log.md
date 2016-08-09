@@ -209,3 +209,4 @@ I am looking forward to working on an application that consists using Node's str
 - Fernando Doglio's Pro REST API Developement with Node.js is good start to get familiar to REST API in general. 
 - Karl Duuna's book on Node.js Security contains tips and tricks against various attacks.
 - Worked on [Startek-Names](https://github.com/amandeepmittal/startrek-names) and released v1.3.0. Will be working on to release an ES6 version on it.
+- Fixed minor bugs for [atom-nodejs-snippets](https://github.com/amandeepmittal/atom-nodejs-snippets), new release 0.1.3
