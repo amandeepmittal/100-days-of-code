@@ -212,7 +212,7 @@ I am looking forward to working on an application that consists using Node's str
 - Fixed minor bugs for [atom-nodejs-snippets](https://github.com/amandeepmittal/atom-nodejs-snippets), new release 0.1.3
 
 ---
-### Day 18: Aug 9
+### Day 19: Aug 10
 
 **Today's Progress**: 
 - Built [express_boilerplate](https://github.com/amandeepmittal/startrek-names) for nodejs apps
