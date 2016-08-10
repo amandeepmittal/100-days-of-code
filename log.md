@@ -210,3 +210,11 @@ I am looking forward to working on an application that consists using Node's str
 - Karl Duuna's book on Node.js Security contains tips and tricks against various attacks.
 - Worked on [Startek-Names](https://github.com/amandeepmittal/startrek-names) and released v1.3.0. Will be working on to release an ES6 version on it.
 - Fixed minor bugs for [atom-nodejs-snippets](https://github.com/amandeepmittal/atom-nodejs-snippets), new release 0.1.3
+
+---
+### Day 18: Aug 9
+
+**Today's Progress**: 
+- Built [express_boilerplate](https://github.com/amandeepmittal/startrek-names) for nodejs apps
+- stable release v1.0.0 [atom-nodejs-snippets](https://github.com/amandeepmittal/atom-nodejs-snippets), fixed bugs.
+- - Worked on [Startek-Names](https://github.com/amandeepmittal/startrek-names) and released v2.0.0. 
