@@ -217,4 +217,4 @@ I am looking forward to working on an application that consists using Node's str
 **Today's Progress**: 
 - Built [express_boilerplate](https://github.com/amandeepmittal/startrek-names) for nodejs apps
 - stable release v1.0.0 [atom-nodejs-snippets](https://github.com/amandeepmittal/atom-nodejs-snippets), fixed bugs.
-- - Worked on [Startek-Names](https://github.com/amandeepmittal/startrek-names) and released v2.0.0. 
+- Worked on [Startek-Names](https://github.com/amandeepmittal/startrek-names) and released v2.0.0. 
